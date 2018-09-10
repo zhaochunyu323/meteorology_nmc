@@ -1,5 +1,5 @@
 # meteorology_nmc
-Using scrapy to crawl meteorology data.
+Using scrapy to crawl meteorology data of Beijing of all the districts.
 
 Usage: (Ubuntu 16.04)
 
